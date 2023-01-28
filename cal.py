@@ -13,3 +13,4 @@ return c;
 
 // testing pos git
 print (a);
+print (b);
